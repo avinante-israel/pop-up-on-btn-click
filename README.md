@@ -17,7 +17,9 @@ Add this code at the bottom of your HTML
 ```
 
 Add this class to your pop-up button
-``` ia-popup-btn ```
+```
+ia-popup-btn
+```
 
 # Demo
 <a target="_blank" href="https://jsfiddle.net/bin182/bawqnmn3/">JS Fiddle</a>
