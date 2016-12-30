@@ -20,7 +20,7 @@ Add this class to your pop-up button
 ``` ia-popup-btn ```
 
 # Demo
-<a href="https://jsfiddle.net/bin182/bawqnmn3/">JS Fiddle</a>
+<a target="_blank" href="https://jsfiddle.net/bin182/bawqnmn3/">JS Fiddle</a>
 
 # Note
 jQuery version should be 3.1.1 or above
